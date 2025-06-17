@@ -1,6 +1,6 @@
 public class Array {
     public static void main(String[] args) {
-        int[] nums ={1,1,2,2,2,3,4,5,5,6,7,8,8};
+        int[] nums ={1,2,3,4};
         int i=0;
         for(int j=0; j<nums.length;j++){
             if(nums[i]!=nums[j]){
